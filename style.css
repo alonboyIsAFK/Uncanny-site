@@ -1,0 +1,21 @@
+body {
+  background: #0b0b0b;
+  color: #eaeaea;
+  font-family: serif;
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+}
+
+#game {
+  max-width: 600px;
+}
+
+button {
+  display: block;
+  margin: 10px 0;
+  background: #111;
+  color: #ccc;
+  border: 1px solid #333;
+  padding: 10px;
+}
